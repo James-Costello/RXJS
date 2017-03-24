@@ -86,7 +86,8 @@ function main(){
 ///Reactive///////
 //////////////////
 
-/////////////////////
-///
-////////////////////
+//Primitive is Observable
+//Based on streams, data flows unidirectionally
+
+
 
